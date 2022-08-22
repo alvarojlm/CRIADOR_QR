@@ -328,7 +328,10 @@
     <enum>Qt::LeftToRight</enum>
    </property>
    <property name="text">
-    <string>TextLabel</string>
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>../CRIADOR_QRSeu_QRCode.png</pixmap>
    </property>
   </widget>
  </widget>
